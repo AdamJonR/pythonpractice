@@ -11,5 +11,3 @@ if score >= D_score:
 print('Your grade is D.') 
 else: 
 print('Your grade is F.')
-
-# wow, great comment
